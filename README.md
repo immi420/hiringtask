@@ -4,6 +4,7 @@ Flutter Development Task for Basic Integration.
 
 ## Project Structure
 The project is structured into several layers, each with its own set of responsibilities:
+```
 lib/
 ├── features/
 │   ├── auth/
@@ -23,6 +24,8 @@ lib/
 │   ├── utils
 │   ├── constants
 ├── main.dart
+
+```
 
 ##Dependencies
 
