@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "778492137587",
+    "project_id": "mytask-3a21d",
+    "storage_bucket": "mytask-3a21d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778492137587:android:4dbc8a49ad2824c31fda06",
+        "android_client_info": {
+          "package_name": "com.immidev.hiringtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778492137587-og1s5e4shlhf6basaj4qamc2ue0m8fs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5i1iV0A6x89udQ4bPP2eGLg26Ga3czY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778492137587-og1s5e4shlhf6basaj4qamc2ue0m8fs1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778492137587-74o933crl639luhc2nso7necb2i0nm28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.immidev.hiringtask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
